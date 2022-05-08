@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.topdiv {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color: #66BFBF;
+  position: relative;
+  top: 20px;
+}
+
+h2 {
+  color: #66BFBF;
+  position: relative;
+  top: 20px;
+}
+
+.topcloud {
+  position: relative;
+  top: 50px;
+  left: 250px;
+}
+
+.bottomcloud {
+  position: relative;
+  bottom: 300px;
+  left: 80px;
+}
+
+.firsthr {
+  position: relative;
+  top: 60px;
+  width: 3%;
+  border: none;
+  border-top: 7px dotted #EAF6F6;
+}
+.secondhr{
+  width: 3%;
+  border: none;
+  border-top: 7px dotted #EAF6F6;
+}
+.contact-me {
+  position: relative;
+  top: 60px;
+}
+
+.firstpara {
+  position: relative;
+  top: 30px;
+  color: #40514E;
+}
+
+.profileimg {
+  margin-top: 100px;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+.myskills{
+  position: relative;
+  top: 60px;
+  color: #66BFBF;
+}
+.thirddiv{
+  margin:100px 400px 100px 400px;
+  text-align: left;
+}
+.computer{
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  float: left;
+  margin-right: 25px;
+}
+.chillies{
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  float: right;
+  margin-left: 25px;
+}
+.hello {
+  color: #66BFBF;
+  margin-top: 10px;
+}
+.lastdiv{
+  position: relative;
+  top: 90px;
+}
+.footer-link{
+margin-right: 20px;
+}
